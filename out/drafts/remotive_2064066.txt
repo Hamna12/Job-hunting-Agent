@@ -1,0 +1,9 @@
+Subject: GenAI Agency - Litify Co-op Opportunity
+URL: https://remotive.com/remote-jobs/software-dev/software-engineer-2064066
+
+Subject: GenAI Agency - Litify Co-op Opportunity
+
+Dear Litify Team,
+
+We were excited to see your Co-op opportunity for a Software Engineer, particularly given the focus on data-driven applications and Salesforce. Our agency specializes in GenAI solutions including Agent development, RAG, and LLM fine-tuning – skills that align well with your needs.  We're particularly interested in the Scala component and believe our expertise could be a valuable asset.  Would you be open to a brief 15-minute call to discuss how we can support your team?  Best regards,
+[Your Name/Agency Name]

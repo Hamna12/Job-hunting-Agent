@@ -1,0 +1,9 @@
+Subject: GenAI Agency - Elixir Expertise Inquiry
+URL: https://remoteOK.com/remote-jobs/remote-senior-elixir-developer-koombea-1128124
+
+Dear Koombea Team,
+
+We're a 2-person GenAI agency specializing in Agent development, RAG, LLM fine-tuning, and CV/NLP solutions.  We noticed your search for a Senior Elixir Developer and believe our team's expertise in building scalable, high-performance applications could be a valuable asset to your team, particularly as you expand your digital product offerings.  While this role appears focused on traditional development, we're increasingly integrating LLMs into our Agent workflows, and your team's experience would be highly relevant.  Would you be open to a brief 15-minute call to explore potential synergies?  
+
+Best regards,
+[Your Agency Name]

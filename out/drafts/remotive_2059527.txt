@@ -1,0 +1,9 @@
+Subject: GenAI Agency - Frontend Expertise for Constructor's Search Platform
+URL: https://remotive.com/remote-jobs/software-dev/frontend-focused-full-stack-engineer-2059527
+
+Subject: GenAI Agency - Frontend Expertise for Constructor's Search Platform
+
+Dear Constructor Team,
+
+We were incredibly impressed by Constructor’s innovative approach to ecommerce search, leveraging LLMs and RAG – a core area of expertise for our 2-person GenAI agency.  Your focus on revenue optimization and A/B testing success aligns perfectly with our mission to build cutting-edge GenAI solutions.  Given the role's frontend focus and your use of React and Docker, we believe our team could immediately contribute to your platform's development.  We'd love to schedule a brief call to discuss how our GenAI capabilities can further enhance your search experience.  Best regards,
+[Your Name/Agency Name]

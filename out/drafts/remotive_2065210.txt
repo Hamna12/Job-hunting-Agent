@@ -1,0 +1,13 @@
+Subject: GenAI Agency - .NET Developer Opportunity at VetsEZ
+URL: https://remotive.com/remote-jobs/software-dev/senior-net-developer-2065210
+
+Subject: GenAI Agency - .NET Developer Opportunity at VetsEZ
+
+Dear [Hiring Manager Name - if available, otherwise 'VetsEZ Team'],
+
+We're a 2-person GenAI agency specializing in Agent development, RAG, LLM fine-tuning, and CV/NLP solutions.  We noticed your Senior .NET Developer role at VetsEZ, supporting critical healthcare systems – a sector increasingly leveraging GenAI.  Given our agency's expertise in building scalable applications, we believe we could offer valuable support.
+
+We'd be keen to discuss how our GenAI capabilities could complement your team's efforts.  Would you be open to a brief 15-minute call to explore potential synergies?
+
+Best regards,
+[Your Name/Agency Name]

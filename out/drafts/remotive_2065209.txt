@@ -1,0 +1,13 @@
+Subject: GenAI Agency - .Net Developer Opportunity at VetsEZ
+URL: https://remotive.com/remote-jobs/software-dev/net-developer-2065209
+
+Subject: GenAI Agency - .Net Developer Opportunity at VetsEZ
+
+Dear [Contact Name],
+
+We've analyzed the .Net Developer role at VetsEZ and see a potential synergy with our GenAI agency's capabilities, particularly given the data migration and integration focus. While primarily .Net, the EHRM-IO project presents opportunities for leveraging RAG and potentially fine-tuning LLMs for data understanding and processing – areas we specialize in.
+
+We'd be keen to discuss how our agency's expertise could add value to this project. Would you be open to a brief 15-minute call to explore this further?
+
+Best regards,
+[Your Name/Agency Name]
